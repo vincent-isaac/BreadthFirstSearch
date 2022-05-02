@@ -31,7 +31,7 @@ End of program.
 ## PROGRAM
 ### Developed By: J Vincent isaac jeyaraj
 ### Register Number: 212220230060
-```
+```python
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random

@@ -1,4 +1,6 @@
-# Breadth First Search
+## EX NO:02
+## DATE:28.04.2022
+# <p align="center">Breadth First Search</p>
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -23,10 +25,14 @@ Include each node and its distance separately in the dictionary data structure.
 
 ### STEP 5:
 End of program.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## ROUTE MAP
-![WhatsApp Image 2022-05-01 at 9 56 54 PM](https://user-images.githubusercontent.com/75234588/166159420-b0cca715-d1cd-4e4f-87ab-1c48054fc5c9.jpeg)
-
+<img src="https://user-images.githubusercontent.com/75234588/166159420-b0cca715-d1cd-4e4f-87ab-1c48054fc5c9.jpeg" height="400" width="400" >
 
 ## PROGRAM
 ### Developed By: J Vincent isaac jeyaraj
@@ -214,7 +220,8 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ```
 
 ## OUTPUT:
-![Screenshot (51)](https://user-images.githubusercontent.com/75234588/166147203-66290527-9c2c-4fec-b4e0-5b0028e9c211.png)
+
+<img src="https://user-images.githubusercontent.com/75234588/166147203-66290527-9c2c-4fec-b4e0-5b0028e9c211.png" height="400" width="400" >
 
 
 ## SOLUTION JUSTIFICATION:
